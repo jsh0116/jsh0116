@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![jsh0116's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=jsh0116&show_icons=true&theme=dark)
-
 <!--
 **jsh0116/jsh0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
